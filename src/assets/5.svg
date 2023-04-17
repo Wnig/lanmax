@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>5</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-1735.000000, -75.000000)" stroke="#FFFFFF" stroke-width="2">
+            <g id="Group" transform="translate(1735.000000, 75.000000)">
+                <g id="Group-16" transform="translate(1.000000, 1.000000)">
+                    <circle id="Oval" cx="29" cy="29" r="29"></circle>
+                    <path d="M13,19.486908 C18.6820437,15.1887447 24.0192212,14.8642038 29.0115327,18.5132855 C34.0038442,22.1623671 39.5,21.6535746 45.5,16.986908" id="Path-5"></path>
+                    <path d="M13,30.486908 C18.6820437,26.1887447 24.0192212,25.8642038 29.0115327,29.5132855 C34.0038442,33.1623671 39.5,32.6535746 45.5,27.986908" id="Path-5-Copy"></path>
+                    <path d="M13,41.486908 C18.6820437,37.1887447 24.0192212,36.8642038 29.0115327,40.5132855 C34.0038442,44.1623671 39.5,43.6535746 45.5,38.986908" id="Path-5-Copy-2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
